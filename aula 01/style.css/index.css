@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: rgba(237, 252, 102, 0.678);
+}
+
+h1 {
+    color: rgb(0, 0, 0);
+}
+
+p {
+    font-size: 20px;
+}
+.imagem {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.imagem img {
+    width: 300px;
+}
